@@ -22,9 +22,28 @@
   }
 
   .img-responsive{
-    margin-top: 50px;
-    margin-left: 100px;
+    margin-top: 40px;
+    margin-left: 150px;
     width: 500px;
     height: 500px;
     
+  }
+  .name{
+    color: white;
+    margin-left: -100px;
+    margin-top: 200px;
+    font-size: 50px;
+  }
+
+  .left-section{
+    float: left;
+    width: 50%;
+    margin-top: 20px;
+
+  }
+
+  .right-section{
+    float: right;
+    width: 50%;
+    margin-top: 20px;
   }
