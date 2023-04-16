@@ -20,4 +20,11 @@
   .navbar-container a:hover {
     background-color: rgba(255, 255, 255, 0.2);
   }
+
+  .img-responsive{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 500px;
+    height: 500px;
     
+  }
