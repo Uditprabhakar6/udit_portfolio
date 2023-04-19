@@ -35,15 +35,30 @@
     font-size: 50px;
   }
 
-  .left-section{
-    float: left;
-    width: 50%;
-    margin-top: 20px;
-
+  .img{
+    width: 250px;
+    height: 250px;
+    margin-top: 250px;
+    margin-left: 620px;
+    border-radius: 100%;
+    background-color: #fff;
+    
   }
 
-  .right-section{
-    float: right;
-    width: 50%;
-    margin-top: 20px;
+  .udittext{
+    font-size: 60px;
+    margin-left: 475px;
+    margin-top: 19px;
+    color: #fff;
+    font-family: montserrat;
+    font-weight: 800;
+    box-sizing: border-box;
+  }
+
+  .ptext{
+    font-size: 60px;
+    color: blue;
+    font-family: montserrat;
+    font-weight: 800;
+    box-sizing: border-box;
   }
