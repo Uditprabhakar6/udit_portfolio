@@ -37,7 +37,7 @@
 
   .img{
     width: 250px;
-    height: 250px;
+    height: 260px;
     margin-top: 250px;
     margin-left: 620px;
     border-radius: 100%;
@@ -57,8 +57,18 @@
 
   .ptext{
     font-size: 60px;
-    color: blue;
+    color: rgb(16, 226, 75);
     font-family: montserrat;
     font-weight: 800;
     box-sizing: border-box;
+  }
+
+  .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,.4);
+    z-index: 1;
   }
